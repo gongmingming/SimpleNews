@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MVP框架</string>
+    <string name="action_settings">设置</string>
+
+    <string name="navigation_menu1">左menu1</string>
+    <string name="navigation_menu2">左menu2</string>
+    <string name="navigation_menu3">左menu3</string>
+    <string name="navigation_menu4">简介</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="name">克胜</string>
+    <string name="developname">克胜集团</string>
+    <string name="address">地址：江苏省建湖县盐淮路888号</string>
+    <string name="phone">电话：0515-86273928</string>
+    <string name="email">E-mail：ab@kesheng.com　</string>
+    <string name="website">网址：http://www.kesheng.com/main.html</string>
+    <string name="introduction">简介： 江苏克胜集团是一家集科研、制造、国际国内市场一体化的
+     以植物保护、生物医药、房地产、农村金融、五星级酒店为主体的涵盖五大产业的国家重点高新技术企业。</string>
+
+    <string name="tab1">tab1</string>
+    <string name="tab2">tab2</string>
+    <string name="tab3">tab3</string>
+    <string name="tab4">tab4</string>
+
+    <string name="jingxuan">精选</string>
+    <string name="qutu">趣图</string>
+    <string name="meitu">美图</string>
+    <string name="story">故事</string>
+
+    <string name="load_fail">加载数据失败!</string>
+    <string name="title_activity_news_detail">NewsDetailActivity</string>
+
+    <string name="image_hit">一次只加载20条，查看更多内容请刷新。</string>
+</resources>
