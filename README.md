@@ -1,4 +1,5 @@
 # SimpleNews
+<<<<<<< HEAD
 基于Material Design和MVP的新闻客户端
 
 # Screenshot
@@ -35,3 +36,10 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+=======
+MVP Frame
+
+Android news client
+
+运用了MVP框架的Android新闻客户端
+>>>>>>> af38faa84b5431b08d76066c11b398a93d77d064
